@@ -4,6 +4,7 @@
 
 - 🏫 I'm currently studying in Xi'an University of Posts & Telecommunications
 - 🌱 I’m currently learning Linux Kernel/eBPF
+- 🏢 I'm looking for a job related to Linux kernel/eBPF (Graduated in 2024)
 
 <!--
 **byxzone/byxzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
